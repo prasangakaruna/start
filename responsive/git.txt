@@ -1,0 +1,46 @@
+git (git --version)
+node (git --version)
+npm  (git --version) - npm install
+
+
+intall packages
+
+campass
+
+- gem install gulp
+
+- gem install ruby
+
+- gem install sass
+
+- gem install compass
+
+- gem install susy
+
+- gem install compass --pre
+
+- npm install --save-dev gulp-minify-css
+
+
+gulp
+
+Check out branch : git clone https://github.com/prasangakaruna/start.git
+
+
+GIT ADD
+
+git init 
+
+git commit -m "PROJECT"
+
+git remote add origin https://github.com/prasangakaruna/start.git
+
+git commit -m "first commit"
+
+git push -u origin master
+
+
+mygit
+
+username : prasangakaruna
+password : abc@123
